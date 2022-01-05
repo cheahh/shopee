@@ -1,2 +1,2 @@
 calculateshopee
-Just
+Just open shopee web and
